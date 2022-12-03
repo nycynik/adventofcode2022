@@ -1,8 +1,16 @@
-<img src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" width="160" align="right">
 
-# AdventOfCode-Starter-Darts
+# AdventOfCode 2022!
 
-This is a Starter project for [AdventOfCode](https://adventofcode.com/2022), written in `Dart`. Feel free to use it for your own adventures with the christmas-themed puzzles!
+# Puzzles
+
+| S  | M  | T  | W  | Th | F | S |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   | [Day 01](./solution/day01.dart) ⭐⭐ | [Day 02](./solution/day02.dart) ⭐⭐ | [Day 03](./solution/day03.dart)   | [Day 04](./solution/day04.dart)  |
+| [Day 05](./solution/day05.dart)  | [Day 06](./solution/day06.dart)  | [Day 07](./solution/day07.dart)   | [Day 08](./solution/day08.dart)   | [Day 09](./solution/day09.dart)  | [Day 10](./solution/day10.dart)  | [Day 11](./solution/day11.dart)  |
+| [Day 12](./solution/day12.dart)  | [Day 13](./solution/day13.dart)  | [Day 14](./solution/day14.dart)  | [Day 15](./solution/day15.dart)   | [Day 16](./solution/day16.dart) | [Day 17](./solution/day17.dart)  | [Day 18](./solution/day18.dart) |
+| [Day 19](./solution/day19.dart)  | [Day 20](./solution/day20.dart)  | [Day 21](./solution/day21.dart)   | [Day 22](./solution/day22.dart)   | [Day 23](./solution/day23.dart) | [Day 24](./solution/day24.dart)  | [Day 25](./solution/day25.dart) |
+
+# Development
 
 ## How to use
 The code is commented abundantly, but you can find an overview about the features here as well.
@@ -45,9 +53,6 @@ When using the Boilerplate generator, everything is done for you automatically. 
 **Collection** provides many methods for ...collections... Most importantly, a `groupBy` and a collection equality interface.
 **Quiver** is an awesome toolbox of helper methods for Dart. We mostly use `/iterables` (similar to Pythons `itertools`). 
 
-## Contributing
-Contributing is greatly appreciated, just fork this project and create a Pull Request, or open an Issue!
-
 # Happy Holidays!
 
-<img src="https://blogs.sap.com/wp-content/uploads/2020/11/EkaoQQTXEAMA4BN.jpg">
+<img solution="https://blogs.sap.com/wp-content/uploads/2020/11/EkaoQQTXEAMA4BN.jpg">
