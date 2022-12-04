@@ -4,6 +4,9 @@ import 'utils/generic_day.dart';
 /// List holding all the solution classes.
 final days = <GenericDay>[
   Day01(),
+  Day02(),
+  Day03(),
+  Day04(),
 ];
 
 void main(List<String?> args) {
