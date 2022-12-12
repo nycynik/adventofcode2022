@@ -14,25 +14,25 @@ class Day10 extends GenericDay {
   @override
   parseInput() {
     lines = input.getPerLine();
-    lines = '''addx 15
-addx -11
-addx 6
-addx -3
-addx 5
-addx -1
-addx -8
-addx 13
-addx 4
-noop
-addx -1
-addx 5
-addx -1
-addx 5
-addx -1
-addx 5
-addx -1'''
-        .trim()
-        .split('\n');
+//     lines = '''addx 15
+// addx -11
+// addx 6
+// addx -3
+// addx 5
+// addx -1
+// addx -8
+// addx 13
+// addx 4
+// noop
+// addx -1
+// addx 5
+// addx -1
+// addx 5
+// addx -1
+// addx 5
+// addx -1'''
+//         .trim()
+//         .split('\n');
   }
 
   increaseCycle() {
