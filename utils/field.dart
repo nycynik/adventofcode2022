@@ -62,7 +62,7 @@ class Field<T> {
       }
     }
   }
-
+  
   /// Returns the number of occurances of given object in this field.
   int count(T searched) => field
       .expand((element) => element)
