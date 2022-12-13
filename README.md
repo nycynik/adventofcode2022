@@ -15,7 +15,7 @@
 | S  | M  | T  | W  | Th | F | S |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   | ⭐⭐ <br/> [Day 01](./solutions/day01.dart) | ⭐⭐ <br/> [Day 02](./solutions/day02.dart) | ⭐⭐ <br/> [Day 03](./solutions/day03.dart) | ⭐⭐ <br/> [Day 04](./solutions/day04.dart)  |
-| ⭐⭐ <br/> [Day 05](./solutions/day05.dart) | ⭐⭐ <br/> [Day 06](./solutions/day06.dart) ⭐⭐ | ⭐⭐ <br/> [Day 07](./solutions/day07.dart)  | ⭐⭐ <br/> [Day 08](./solution/day08.dart) ⭐⭐ | ⭐⭐ <br/> [Day 09](./solutions/day09.dart) | ⭐⭐ <br/> [Day 10](./solutions/day10.dart) | ⭐ <br/> [Day 11](./solutions/day11.dart) |
+| ⭐⭐ <br/> [Day 05](./solutions/day05.dart) | ⭐⭐ <br/> [Day 06](./solutions/day06.dart) | ⭐⭐ <br/> [Day 07](./solutions/day07.dart)  | ⭐⭐ <br/> [Day 08](./solution/day08.dart) | ⭐⭐ <br/> [Day 09](./solutions/day09.dart) | ⭐⭐ <br/> [Day 10](./solutions/day10.dart) | ⭐ <br/> [Day 11](./solutions/day11.dart) |
 | ⭐⭐ <br/> [Day 12](./solution/day12.dart) | ⭐⭐ <br/> [Day 13](./solutions/day13.dart) | [Day 14](./solutions/day14.dart)  | [Day 15](./solutions/day15.dart)   | [Day 16](./solutions/day16.dart) | [Day 17](./solutions/day17.dart)  | [Day 18](./solutions/day18.dart) |
 | [Day 19](./solutions/day19.dart)  | [Day 20](./solutions/day20.dart)  | [Day 21](./solutions/day21.dart)   | [Day 22](./solutions/day22.dart)   | [Day 23](./solutions/day23.dart) | [Day 24](./solutions/day24.dart)  | [Day 25](./solutions/day25.dart) |
 
