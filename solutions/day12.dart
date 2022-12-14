@@ -80,7 +80,7 @@ class Day12 extends GenericDay {
     }
 
     // part 2
-    var minScenicPath = int.infinity;
+    var minScenicPath = 1000000;
     print("there are ${starts.length} possible starts");
     starts.forEach((possibleStart) {
       var scenicpath = Dijkstra.findPathFromGraph(graph, possibleStart, end);
